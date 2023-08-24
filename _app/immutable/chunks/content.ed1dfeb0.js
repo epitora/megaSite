@@ -1,0 +1,1 @@
+import{b as n}from"./paths.c447f2f9.js";function e(a){return`${n}/${a}`}const i=[{name:"Phone",value:"604-123-4567",link:"tel:604-123-4567"},{name:"Email",value:"info@megahydronics.com",link:"mailto:info@megahydronics.com"}];export{i as c,e as p};
